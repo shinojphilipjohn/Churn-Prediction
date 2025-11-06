@@ -1,5 +1,5 @@
 Business Goal
-To find the number of churned customers also understand the reasons on why they churned  and how to retain them.
+To find customers who are likely to churn and also understand the reasons on why they churned  and how to retain them.
 
 Churn is when a customer leaves the telecom service provided.
 Each row in the dataset gives information on the cusotomers choice of staying  with the service or if they left it.
