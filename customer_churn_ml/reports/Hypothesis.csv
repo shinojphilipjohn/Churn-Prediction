@@ -1,0 +1,13 @@
+﻿,,,,
+Hypothesis,Rationale,Output,tEST,Impact
+Older population churn more,Budget constraints,increase in churning,Check churn rate for senior citizen and otherwise,medium
+Month to month churn more than yearly,less commited to the plan,increase in churning,Check churn rate for each type and otherwise,high
+More monthly charge results in more churning,More expensive,increase in churning,Plot churn rate against monthly charges,high
+Short tenure customers churn more,Less time to build loyalty,increase in churning,Plot churn rate against tenure,medium
+,,,,
+,,,,
+,,,,
+Reflections,,,,
+Important hypothesis would be monthly charges and also checking montho to month against yearly.,,,,
+Contract would be the most surprising variable once tested.,,,,
+If we have limited budget we should focus on the dependent sectors of the customer so as to get new customers if the existing are happy.,,,,
